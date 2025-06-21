@@ -286,6 +286,7 @@ a {
   border-radius: 12px;
   background: #fff;
   border: 1px solid #E2DFDA;
+  cursor: pointer;
 
 }
 .pupular .course-item:hover{
