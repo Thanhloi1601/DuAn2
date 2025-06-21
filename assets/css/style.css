@@ -269,7 +269,7 @@ a {
   font-size: 1.8rem;
   width: 458px;
   font-weight: 400;
-  line-height: 1.67rem;
+  line-height: 1.67;
 }
 .pupular .puplar-top {
   display: flex;
